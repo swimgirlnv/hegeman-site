@@ -6,11 +6,11 @@ function TopBar () {
           <a className="navbar-first" href="#Intro"><strong>Welcome!</strong></a>
           <a href="#About">Your CCs</a>
           <div className="separator"></div>
-          <a className="navbar-last" href="#Projects">Important Links</a>
+          <a className="navbar-last" href="#Links">Important Links</a>
           <div className="separator"></div>
-          <a className="navbar-last" href="#Projects">Upcoming Events</a>
+          <a className="navbar-last" href="#Events">Upcoming Events</a>
           <div className="separator"></div>
-          <a className="navbar-last" href="#Projects">FAQs</a>
+          <a className="navbar-last" href="#FAQs">FAQs</a>
         </div>
   );
 }

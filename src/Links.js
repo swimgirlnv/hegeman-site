@@ -4,7 +4,7 @@ import './links.css'
 export default function Links() {
 
   return (
-    <div className="item1">
+    <div className="item1" id="Links">
       <div className="buttons">
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSft1SOAEudOnRge8JZsW4G-HiUCB4_lBoHu-P5WW1usMpiHqw/viewform?usp=sf_link" target='blank'>
           <div className="btn">
