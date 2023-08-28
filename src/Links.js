@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import './links.css'
 
 export default function Links() {
