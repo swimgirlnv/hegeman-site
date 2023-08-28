@@ -1,0 +1,58 @@
+.item1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(#729efd, rgb(111,101,189));
+
+  width: 100%;
+  background-position: top;
+  background-size: cover;
+  position: relative;
+}
+
+/* .item1:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: 300px 300px;
+  background-image: url("https://i.imgur.com/DzcqS6p.gif");
+  background-repeat: repeat;
+  opacity: .85;
+  mix-blend-mode: overlay;
+} */
+
+.btn {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 100px;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.slide {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.text2 {
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
