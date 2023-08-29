@@ -8,11 +8,8 @@ function TopBar () {
           <a className="navbar-first" href="#Intro"><strong>Welcome!</strong></a>
           <div className='navLinks'>
             <a href="#About">Your CCs</a>
-            <div className="separator"></div>
             <a className="navbar-last" href="#Links">Important Links</a>
-            <div className="separator"></div>
             <a className="navbar-last" href="#Events">Upcoming Events</a>
-            <div className="separator"></div>
             <a className="navbar-last" href="#FAQs">FAQs</a>
           </div>
           
