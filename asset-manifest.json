@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/final-portfolio/static/css/main.18f53a4e.css",
-    "main.js": "/final-portfolio/static/js/main.46a00d63.js",
-    "index.html": "/final-portfolio/index.html",
-    "main.18f53a4e.css.map": "/final-portfolio/static/css/main.18f53a4e.css.map",
-    "main.46a00d63.js.map": "/final-portfolio/static/js/main.46a00d63.js.map"
+    "main.css": "/hegeman-site.github.io/static/css/main.a57e1655.css",
+    "main.js": "/hegeman-site.github.io/static/js/main.191dd67d.js",
+    "index.html": "/hegeman-site.github.io/index.html",
+    "main.a57e1655.css.map": "/hegeman-site.github.io/static/css/main.a57e1655.css.map",
+    "main.191dd67d.js.map": "/hegeman-site.github.io/static/js/main.191dd67d.js.map"
   },
   "entrypoints": [
-    "static/css/main.18f53a4e.css",
-    "static/js/main.46a00d63.js"
+    "static/css/main.a57e1655.css",
+    "static/js/main.191dd67d.js"
   ]
 }
