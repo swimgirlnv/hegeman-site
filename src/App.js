@@ -1,6 +1,7 @@
   import "./App.css";
 import Bubbles from "./Bubbles";
 import Events from "./Events";
+import Forms from "./Forms";
 import Links from "./Links";
   import Staff from "./Staff";
 import TopBar from "./TopBar";
@@ -40,6 +41,7 @@ import TopBar from "./TopBar";
 
           <Links />
           <Events />
+          <Forms />
         <div className="footer">
           <p>Made with love in Providence</p>
         </div>

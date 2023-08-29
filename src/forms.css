@@ -1,0 +1,15 @@
+.formFrame {
+  height: 70vh;
+  width: 50vw;
+}
+
+.item3 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(rgb(89,70,178), rgb(51,51,161));
+  width: 100%;
+
+}
