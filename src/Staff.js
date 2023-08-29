@@ -32,7 +32,7 @@ export default function Staff() {
         <div className="text">
           <h1>Jasmine</h1>
           <h2>Room 208C (Tower C)</h2>
-          <p>Computer Science / Literary Arts, Class of '24.5</p>
+          <p>Business Econonomics and Biology, Class of 2026</p>
           <p>Email:
             <a href="mailto:" className="email">jasmine_xi@brown.edu</a>
           </p>
@@ -52,14 +52,13 @@ export default function Staff() {
         <div className="text">
           <h1>Joyce</h1>
           <h2>Room 214B (Tower E)</h2>
-          <p>Computer Science / Literary Arts, Class of '24.5</p>
+          <p>Cognitive Neuroscience</p>
           <p>Email:
             <a href="mailto:" className="email">joyce_gao@brown.edu</a>
           </p>
           <br></br>
           <p className="paragraph">
-          Hi! My name is Joyce, and I am a junior concentrating in cognitive neuroscience and 
-          (maybe) English. I am from Beijing, China. When I am not in tower A, you can probably 
+          Hi! My name is Joyce, and I am a junior concentrating in cognitive neuroscience. I am from Beijing, China. When I am not in tower A, you can probably 
           find me enjoying Ratty food, or procrastinating in my natural habitat (the Rock). 
           Really excited to meet you all! 
           </p>
