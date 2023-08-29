@@ -56,6 +56,8 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .numbers-title {
@@ -86,8 +88,16 @@
 
 .number-title {
   font-size: 1.5rem;
+
+  @media screen and (max-width: 801px) {
+    font-size: 0.9rem;
+  }
 }
 
 .number-content {
   font-size: 1.5rem;
+
+  @media screen and (max-width: 801px) {
+    font-size: 0.9rem;
+  }
 }
