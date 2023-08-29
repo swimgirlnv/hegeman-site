@@ -22,3 +22,15 @@ a {
   all: unset;
   cursor: pointer;
 }
+
+h1 {
+  font-size: 1.3rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+p {
+  font-size: 1rem;
+}

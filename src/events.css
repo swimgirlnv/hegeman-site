@@ -1,0 +1,18 @@
+.calendarFrame {
+  width: 70vw;
+  height: 60vh;
+}
+
+.item2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(rgb(111,101,189), rgb(89,70,178));
+  width: 100%;
+}
+
+.calendar {
+  margin: 40px;
+}

@@ -1,5 +1,6 @@
   import "./App.css";
 import Bubbles from "./Bubbles";
+import Events from "./Events";
 import Links from "./Links";
   import Staff from "./Staff";
 import TopBar from "./TopBar";
@@ -32,14 +33,13 @@ import TopBar from "./TopBar";
           </div>
             <div className="about" id="About">
               <div className="about-content">
-                <h3><b>Meet your CCs!</b></h3>
-                <br></br>
                 <Staff />
               </div>
             </div>
           </div>
 
           <Links />
+          <Events />
         <div className="footer">
           <p>Made with love in Providence</p>
         </div>

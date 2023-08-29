@@ -1,7 +1,7 @@
 .item1 {
+  z-index: 2;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   background-image: linear-gradient(#729efd, rgb(111,101,189));
@@ -52,7 +52,42 @@
 }
 
 .buttons {
+  z-index: 300;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+
+.numbers-title {
+  font-weight: bold;
+  padding: 20px;
+}
+.numbers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+}
+
+.numbers-content {
+  width: 70vw;
+  min-width: fit-content;
+
+}
+
+.number {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.number-title {
+  font-size: 1.5rem;
+}
+
+.number-content {
+  font-size: 1.5rem;
 }
