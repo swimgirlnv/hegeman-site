@@ -16,3 +16,11 @@
 .calendar {
   margin: 40px;
 }
+
+.poster {
+  width: 75vw;
+}
+
+.posterImg {
+  height: 70vh;
+}
