@@ -13,6 +13,9 @@ export default function Events() {
         <div className='poster'>
           <img className='posterImg' src='https://i.imgur.com/x29dElf.png' />
         </div>
+        <div className='poster'>
+          <img className='posterImg' src='https://i.imgur.com/a5UDgYb.jpg' />
+        </div>
       </div>
       
     </div>
